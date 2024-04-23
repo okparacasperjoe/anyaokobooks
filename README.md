@@ -1,2 +1,2 @@
 # anyaokobooks
-GitHub Pages
+Only copy the index and assets folder
